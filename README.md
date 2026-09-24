@@ -9,6 +9,10 @@ stored in git and can contain non-colliding nested dependencies of their own.
 - [Tetrifact](https://github.com/shukriadams/tetrifact) : A build storage server tuned for game studios. It can store
 thousands of Unreal-sized builds, and scales up to millions of files.
 
+- [Dockerized Perforce](https://github.com/shukriadams/docker-perforce) : A custom Docker container for Perforce, a
+version control server common in game development. This image has been used in production at a 100+ employee studio
+for years, as well as in my homelab for my music, 3D and CAD projects.
+
 - [Restartinator](https://github.com/shukriadams/restarternator) : A dashboard to remote control and monitor large
 fleets of PCs using airgapped smart plugs.
 
