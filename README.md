@@ -12,6 +12,9 @@ thousands of Unreal-sized builds, and scales up to millions of files.
 - [Restartinator](https://github.com/shukriadams/restarternator) : A dashboard to remote control and monitor large
 fleets of PCs using airgapped smart plugs.
 
+- [Browsemonkey](https://github.com/shukriadams/browsemonkey) : My oldest open source project, from 2004. A Windows
+app for creating browseable and searchable snapshots of CDRs, external HDDs and other media.
+
 ## Other stuff
 
 Machine learning is cool, but you won't find Claude contributions or other generated code here. I write my own code,
