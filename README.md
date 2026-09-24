@@ -19,7 +19,7 @@ app for creating browseable and searchable snapshots of CDRs, external HDDs and 
 
 ## Other stuff
 
-I'm fine using machine learning for input processing, but you won't find Claude contributions or other generated code here. I write my own code, for many reasons. If I can't or don't want to write it I'll use a package created by another human, and if I can't find a package I'll wait for one to come along. I'm patient.
+I'm fine using machine learning for input processing, but you won't find any AI generated content here. I write my own code, for many reasons. If I can't or don't want to write it I'll use a package created by another human, and if I can't find a package I'll wait for one to come along. I'm patient.
 
 I have opinions about source code and source control. Feel free to approach me on the street for an impromptu monologue.
 
