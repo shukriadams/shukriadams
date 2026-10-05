@@ -15,11 +15,12 @@ for years, as well as in my homelab for my music, 3D and CAD projects.
 fleets of PCs using airgapped smart plugs.
 
 - [Browsemonkey](https://github.com/shukriadams/browsemonkey) : My oldest open source project, from 2004. A Windows
-app for creating browseable and searchable snapshots of CDRs, external HDDs and other media.
+app for creating browseable and searchable snapshots of CDRs, external HDDs and other media. Not very usable today, but
+I keep it around for old times sake.
 
 ## Other stuff
 
-You won't find any AI-generated code here. Humans make and share work through packages.
+You won't find any AI-generated code here. Humans should collaborate via packages.
 
 I have opinions about source code and source control. Feel free to approach me on the street for an impromptu monologue.
 
