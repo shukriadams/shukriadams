@@ -20,7 +20,7 @@ I keep it around for old times sake.
 
 ## Other stuff
 
-You won't find any AI-generated code here. Humans should collaborate via packages.
+You won't find any AI-generated code here. 
 
 I have opinions about source code and source control. Feel free to approach me on the street for an impromptu monologue.
 
